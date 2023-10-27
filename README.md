@@ -5,7 +5,7 @@
 
 <p>To install locally</p>
 <ul>
-        <li>download the application using the command in your terminal:  gh repo clone vladyslav-rohalov/test-task-icap</li>
+        <li>download the application using the command in your terminal:  gh repo clone vladyslav-rohalov/test-task-backendless</li>
         <li>install packages with the command: npm install</li>
         <li>start the project in development mode: npm run dev</li>       
 </ul>
