@@ -1,7 +1,7 @@
 <h1>Tech task</h1>
 
 <h2>Website</h2>
-<p>[https://test-task-icap-xi.vercel.app/](https://test-task-backendless-rho.vercel.app/dummyList)</p>
+<p>https://test-task-backendless-rho.vercel.app/dummyList</p>
 
 <p>To install locally</p>
 <ul>
